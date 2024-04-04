@@ -1,0 +1,156 @@
+D:\Desktop\Sudoku in C#\Sudoku\bin\Debug\Sudoku.exe.config
+D:\Desktop\Sudoku in C#\Sudoku\bin\Debug\Sudoku.exe
+D:\Desktop\Sudoku in C#\Sudoku\bin\Debug\Sudoku.pdb
+D:\Desktop\Sudoku in C#\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+D:\Desktop\Sudoku in C#\Sudoku\obj\Debug\Sudoku.Form1.resources
+D:\Desktop\Sudoku in C#\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+D:\Desktop\Sudoku in C#\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+D:\Desktop\Sudoku in C#\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+D:\Desktop\Sudoku in C#\Sudoku\obj\Debug\Sudoku.exe
+D:\Desktop\Sudoku in C#\Sudoku\obj\Debug\Sudoku.pdb
+D:\Desktop\Sudoku in C#\Sudoku\obj\Debug\Sudoku.Form2.resources
+D:\Desktop\Sudoku in C#\Sudoku\obj\Debug\Sudoku.Form3.resources
+D:\Desktop\Sudoku in C#\Sudoku\obj\Debug\Sudoku.Form4.resources
+C:\Users\f8_2_9\Desktop\Sudoku-prima parte de cod\bin\Debug\Sudoku.exe.config
+C:\Users\f8_2_9\Desktop\Sudoku-prima parte de cod\bin\Debug\Sudoku.exe
+C:\Users\f8_2_9\Desktop\Sudoku-prima parte de cod\bin\Debug\Sudoku.pdb
+C:\Users\f8_2_9\Desktop\Sudoku-prima parte de cod\obj\Debug\Sudoku.csprojAssemblyReference.cache
+C:\Users\f8_2_9\Desktop\Sudoku-prima parte de cod\obj\Debug\Sudoku.Form1.resources
+C:\Users\f8_2_9\Desktop\Sudoku-prima parte de cod\obj\Debug\Sudoku.Form2.resources
+C:\Users\f8_2_9\Desktop\Sudoku-prima parte de cod\obj\Debug\Sudoku.Form3.resources
+C:\Users\f8_2_9\Desktop\Sudoku-prima parte de cod\obj\Debug\Sudoku.Form4.resources
+C:\Users\f8_2_9\Desktop\Sudoku-prima parte de cod\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\f8_2_9\Desktop\Sudoku-prima parte de cod\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\f8_2_9\Desktop\Sudoku-prima parte de cod\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\f8_2_9\Desktop\Sudoku-prima parte de cod\obj\Debug\Sudoku.exe
+C:\Users\f8_2_9\Desktop\Sudoku-prima parte de cod\obj\Debug\Sudoku.pdb
+M:\Vivi\Sudoku-prima parte de cod\bin\Debug\Sudoku.exe.config
+M:\Vivi\Sudoku-prima parte de cod\bin\Debug\Sudoku.exe
+M:\Vivi\Sudoku-prima parte de cod\bin\Debug\Sudoku.pdb
+M:\Vivi\Sudoku-prima parte de cod\obj\Debug\Sudoku.csprojAssemblyReference.cache
+M:\Vivi\Sudoku-prima parte de cod\obj\Debug\Sudoku.Form1.resources
+M:\Vivi\Sudoku-prima parte de cod\obj\Debug\Sudoku.Form2.resources
+M:\Vivi\Sudoku-prima parte de cod\obj\Debug\Sudoku.Form3.resources
+M:\Vivi\Sudoku-prima parte de cod\obj\Debug\Sudoku.Form4.resources
+M:\Vivi\Sudoku-prima parte de cod\obj\Debug\Sudoku.Properties.Resources.resources
+M:\Vivi\Sudoku-prima parte de cod\obj\Debug\Sudoku.csproj.GenerateResource.cache
+M:\Vivi\Sudoku-prima parte de cod\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+M:\Vivi\Sudoku-prima parte de cod\obj\Debug\Sudoku.exe
+M:\Vivi\Sudoku-prima parte de cod\obj\Debug\Sudoku.pdb
+M:\C#(C diez)\Sudoku-prima parte de cod\bin\Debug\Sudoku.exe.config
+M:\C#(C diez)\Sudoku-prima parte de cod\bin\Debug\Sudoku.exe
+M:\C#(C diez)\Sudoku-prima parte de cod\bin\Debug\Sudoku.pdb
+M:\C#(C diez)\Sudoku-prima parte de cod\obj\Debug\Sudoku.csprojAssemblyReference.cache
+M:\C#(C diez)\Sudoku-prima parte de cod\obj\Debug\Sudoku.Form1.resources
+M:\C#(C diez)\Sudoku-prima parte de cod\obj\Debug\Sudoku.Form2.resources
+M:\C#(C diez)\Sudoku-prima parte de cod\obj\Debug\Sudoku.Form3.resources
+M:\C#(C diez)\Sudoku-prima parte de cod\obj\Debug\Sudoku.Form4.resources
+M:\C#(C diez)\Sudoku-prima parte de cod\obj\Debug\Sudoku.Properties.Resources.resources
+M:\C#(C diez)\Sudoku-prima parte de cod\obj\Debug\Sudoku.csproj.GenerateResource.cache
+M:\C#(C diez)\Sudoku-prima parte de cod\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+M:\C#(C diez)\Sudoku-prima parte de cod\obj\Debug\Sudoku.exe
+M:\C#(C diez)\Sudoku-prima parte de cod\obj\Debug\Sudoku.pdb
+M:\C#(C diez)\Sudoku\Sudoku1\bin\Debug\Sudoku.exe.config
+M:\C#(C diez)\Sudoku\Sudoku1\bin\Debug\Sudoku.exe
+M:\C#(C diez)\Sudoku\Sudoku1\bin\Debug\Sudoku.pdb
+M:\C#(C diez)\Sudoku\Sudoku1\obj\Debug\Sudoku.csprojAssemblyReference.cache
+M:\C#(C diez)\Sudoku\Sudoku1\obj\Debug\Sudoku.Form1.resources
+M:\C#(C diez)\Sudoku\Sudoku1\obj\Debug\Sudoku.Form2.resources
+M:\C#(C diez)\Sudoku\Sudoku1\obj\Debug\Sudoku.Form3.resources
+M:\C#(C diez)\Sudoku\Sudoku1\obj\Debug\Sudoku.Form4.resources
+M:\C#(C diez)\Sudoku\Sudoku1\obj\Debug\Sudoku.Properties.Resources.resources
+M:\C#(C diez)\Sudoku\Sudoku1\obj\Debug\Sudoku.csproj.GenerateResource.cache
+M:\C#(C diez)\Sudoku\Sudoku1\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+M:\C#(C diez)\Sudoku\Sudoku1\obj\Debug\Sudoku.exe
+M:\C#(C diez)\Sudoku\Sudoku1\obj\Debug\Sudoku.pdb
+E:\Vivi\Sudoku cu functie\bin\Debug\Sudoku.exe.config
+E:\Vivi\Sudoku cu functie\bin\Debug\Sudoku.exe
+E:\Vivi\Sudoku cu functie\bin\Debug\Sudoku.pdb
+E:\Vivi\Sudoku cu functie\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+E:\Vivi\Sudoku cu functie\obj\Debug\Sudoku.Form1.resources
+E:\Vivi\Sudoku cu functie\obj\Debug\Sudoku.Form2.resources
+E:\Vivi\Sudoku cu functie\obj\Debug\Sudoku.Form3.resources
+E:\Vivi\Sudoku cu functie\obj\Debug\Sudoku.Form4.resources
+E:\Vivi\Sudoku cu functie\obj\Debug\Sudoku.Properties.Resources.resources
+E:\Vivi\Sudoku cu functie\obj\Debug\Sudoku.csproj.GenerateResource.cache
+E:\Vivi\Sudoku cu functie\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+E:\Vivi\Sudoku cu functie\obj\Debug\Sudoku.exe
+E:\Vivi\Sudoku cu functie\obj\Debug\Sudoku.pdb
+M:\C#(C diez)\Sudoku\Sudoku cu functie\bin\Debug\Sudoku.exe.config
+M:\C#(C diez)\Sudoku\Sudoku cu functie\bin\Debug\Sudoku.exe
+M:\C#(C diez)\Sudoku\Sudoku cu functie\bin\Debug\Sudoku.pdb
+M:\C#(C diez)\Sudoku\Sudoku cu functie\obj\Debug\Sudoku.csprojAssemblyReference.cache
+M:\C#(C diez)\Sudoku\Sudoku cu functie\obj\Debug\Sudoku.Form1.resources
+M:\C#(C diez)\Sudoku\Sudoku cu functie\obj\Debug\Sudoku.Form2.resources
+M:\C#(C diez)\Sudoku\Sudoku cu functie\obj\Debug\Sudoku.Form3.resources
+M:\C#(C diez)\Sudoku\Sudoku cu functie\obj\Debug\Sudoku.Form4.resources
+M:\C#(C diez)\Sudoku\Sudoku cu functie\obj\Debug\Sudoku.Properties.Resources.resources
+M:\C#(C diez)\Sudoku\Sudoku cu functie\obj\Debug\Sudoku.csproj.GenerateResource.cache
+M:\C#(C diez)\Sudoku\Sudoku cu functie\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+M:\C#(C diez)\Sudoku\Sudoku cu functie\obj\Debug\Sudoku.exe
+M:\C#(C diez)\Sudoku\Sudoku cu functie\obj\Debug\Sudoku.pdb
+D:\Desktop\Sudoku in C#\Sudoku 10_01_22\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+D:\Desktop\Sudoku in C#\Sudoku 10_01_22\obj\Debug\Sudoku.Form1.resources
+D:\Desktop\Sudoku in C#\Sudoku 10_01_22\obj\Debug\Sudoku.Form2.resources
+D:\Desktop\Sudoku in C#\Sudoku 10_01_22\obj\Debug\Sudoku.Form3.resources
+D:\Desktop\Sudoku in C#\Sudoku 10_01_22\obj\Debug\Sudoku.Form4.resources
+D:\Desktop\Sudoku in C#\Sudoku 10_01_22\obj\Debug\Sudoku.Properties.Resources.resources
+D:\Desktop\Sudoku in C#\Sudoku 10_01_22\obj\Debug\Sudoku.csproj.GenerateResource.cache
+D:\Desktop\Sudoku in C#\Sudoku 10_01_22\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+D:\Desktop\Sudoku in C#\Sudoku 10_01_22\obj\Debug\Sudoku.exe
+D:\Desktop\Sudoku in C#\Sudoku 10_01_22\obj\Debug\Sudoku.pdb
+D:\Desktop\Sudoku in C#\Sudoku 10_01_22\bin\Debug\Sudoku.exe.config
+D:\Desktop\Sudoku in C#\Sudoku 10_01_22\bin\Debug\Sudoku.exe
+D:\Desktop\Sudoku in C#\Sudoku 10_01_22\bin\Debug\Sudoku.pdb
+D:\Desktop\Sudoku in C#\Salvari\Sudoku 10_01_22\bin\Debug\Sudoku.exe.config
+D:\Desktop\Sudoku in C#\Salvari\Sudoku 10_01_22\bin\Debug\Sudoku.exe
+D:\Desktop\Sudoku in C#\Salvari\Sudoku 10_01_22\bin\Debug\Sudoku.pdb
+D:\Desktop\Sudoku in C#\Salvari\Sudoku 10_01_22\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+D:\Desktop\Sudoku in C#\Salvari\Sudoku 10_01_22\obj\Debug\Sudoku.Form1.resources
+D:\Desktop\Sudoku in C#\Salvari\Sudoku 10_01_22\obj\Debug\Sudoku.Form2.resources
+D:\Desktop\Sudoku in C#\Salvari\Sudoku 10_01_22\obj\Debug\Sudoku.Form3.resources
+D:\Desktop\Sudoku in C#\Salvari\Sudoku 10_01_22\obj\Debug\Sudoku.Form4.resources
+D:\Desktop\Sudoku in C#\Salvari\Sudoku 10_01_22\obj\Debug\Sudoku.Properties.Resources.resources
+D:\Desktop\Sudoku in C#\Salvari\Sudoku 10_01_22\obj\Debug\Sudoku.csproj.GenerateResource.cache
+D:\Desktop\Sudoku in C#\Salvari\Sudoku 10_01_22\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+D:\Desktop\Sudoku in C#\Salvari\Sudoku 10_01_22\obj\Debug\Sudoku.exe
+D:\Desktop\Sudoku in C#\Salvari\Sudoku 10_01_22\obj\Debug\Sudoku.pdb
+D:\Desktop\Sudoku 10_01_22\bin\Debug\Sudoku.exe.config
+D:\Desktop\Sudoku 10_01_22\bin\Debug\Sudoku.exe
+D:\Desktop\Sudoku 10_01_22\bin\Debug\Sudoku.pdb
+D:\Desktop\Sudoku 10_01_22\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+D:\Desktop\Sudoku 10_01_22\obj\Debug\Sudoku.Form1.resources
+D:\Desktop\Sudoku 10_01_22\obj\Debug\Sudoku.Form2.resources
+D:\Desktop\Sudoku 10_01_22\obj\Debug\Sudoku.Form3.resources
+D:\Desktop\Sudoku 10_01_22\obj\Debug\Sudoku.Form4.resources
+D:\Desktop\Sudoku 10_01_22\obj\Debug\Sudoku.Properties.Resources.resources
+D:\Desktop\Sudoku 10_01_22\obj\Debug\Sudoku.csproj.GenerateResource.cache
+D:\Desktop\Sudoku 10_01_22\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+D:\Desktop\Sudoku 10_01_22\obj\Debug\Sudoku.exe
+D:\Desktop\Sudoku 10_01_22\obj\Debug\Sudoku.pdb
+E:\Vivi\Versiune finala Sudoku\Sudoku 2 levels\bin\Debug\Sudoku.exe.config
+E:\Vivi\Versiune finala Sudoku\Sudoku 2 levels\bin\Debug\Sudoku.exe
+E:\Vivi\Versiune finala Sudoku\Sudoku 2 levels\bin\Debug\Sudoku.pdb
+E:\Vivi\Versiune finala Sudoku\Sudoku 2 levels\obj\Debug\Sudoku.csprojAssemblyReference.cache
+E:\Vivi\Versiune finala Sudoku\Sudoku 2 levels\obj\Debug\Sudoku.Form1.resources
+E:\Vivi\Versiune finala Sudoku\Sudoku 2 levels\obj\Debug\Sudoku.Form2.resources
+E:\Vivi\Versiune finala Sudoku\Sudoku 2 levels\obj\Debug\Sudoku.Form3.resources
+E:\Vivi\Versiune finala Sudoku\Sudoku 2 levels\obj\Debug\Sudoku.Form4.resources
+E:\Vivi\Versiune finala Sudoku\Sudoku 2 levels\obj\Debug\Sudoku.Properties.Resources.resources
+E:\Vivi\Versiune finala Sudoku\Sudoku 2 levels\obj\Debug\Sudoku.csproj.GenerateResource.cache
+E:\Vivi\Versiune finala Sudoku\Sudoku 2 levels\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+E:\Vivi\Versiune finala Sudoku\Sudoku 2 levels\obj\Debug\Sudoku.exe
+E:\Vivi\Versiune finala Sudoku\Sudoku 2 levels\obj\Debug\Sudoku.pdb
+E:\Vivi\Versiune finala Sudoku\Sudoku final version\bin\Debug\Sudoku.exe.config
+E:\Vivi\Versiune finala Sudoku\Sudoku final version\bin\Debug\Sudoku.exe
+E:\Vivi\Versiune finala Sudoku\Sudoku final version\bin\Debug\Sudoku.pdb
+E:\Vivi\Versiune finala Sudoku\Sudoku final version\obj\Debug\Sudoku.csprojAssemblyReference.cache
+E:\Vivi\Versiune finala Sudoku\Sudoku final version\obj\Debug\Sudoku.Form1.resources
+E:\Vivi\Versiune finala Sudoku\Sudoku final version\obj\Debug\Sudoku.Form2.resources
+E:\Vivi\Versiune finala Sudoku\Sudoku final version\obj\Debug\Sudoku.Form3.resources
+E:\Vivi\Versiune finala Sudoku\Sudoku final version\obj\Debug\Sudoku.Form4.resources
+E:\Vivi\Versiune finala Sudoku\Sudoku final version\obj\Debug\Sudoku.Properties.Resources.resources
+E:\Vivi\Versiune finala Sudoku\Sudoku final version\obj\Debug\Sudoku.csproj.GenerateResource.cache
+E:\Vivi\Versiune finala Sudoku\Sudoku final version\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+E:\Vivi\Versiune finala Sudoku\Sudoku final version\obj\Debug\Sudoku.exe
+E:\Vivi\Versiune finala Sudoku\Sudoku final version\obj\Debug\Sudoku.pdb
